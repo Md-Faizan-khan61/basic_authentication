@@ -18,7 +18,18 @@ The Login/signup application is a Node.js-based system developed using the Expre
  password:string 
 </ul>
 <h3>example</h3>
-![Snapshot](![image](https://github.com/Md-Faizan-khan61/basic_authentication/assets/120436681/cf145353-44f2-49f1-9b64-5fb071b1d27f)
+![Snapshot]( name:{
+       type:String,
+       required:true   
+    },
+    email:{
+        type:String,
+        required:true 
+    },
+    password:{
+        type:String,
+        required:true 
+    })
 )
 # usage
 <h2>1.install dependencies</h2>
