@@ -11,11 +11,11 @@ unordered
  
 
 # Data model
-<ul>
+
  + name:string
  + email:string
  + password:string 
-</ul>
+
 
 <h3>example</h3>
 
@@ -42,9 +42,9 @@ npm i express mongoose bcrypt
 
 ---
 
-![node]([https://banner2.cleanpng.com/20180426/lwq/kisspng-computer-icons-login-management-user-5ae155f3386149.6695613615247170432309.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png))
+![node]([https://banner2.cleanpng.com/20180426/lwq/kisspng-computer-icons-login-management-user-5ae155f3386149.6695613615247170432309.jpg])
 
-![javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 
 
 
