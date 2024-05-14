@@ -17,6 +17,7 @@ unordered
  password:string 
 </ul>
 <h3>example</h3>
+
 ``` js
 name:{
        type:String,
@@ -31,14 +32,14 @@ name:{
         required:true 
     }
 ```
-)
+
 
 # usage
 
 <h2>1. install dependencies</h2>
 npm i express mongoose bcrypt
 
-![login]([https://octodex.github.com/images/minion.png](https://banner2.cleanpng.com/20180426/lwq/kisspng-computer-icons-login-management-user-5ae155f3386149.6695613615247170432309.jpg))
+![login](https://banner2.cleanpng.com/20180426/lwq/kisspng-computer-icons-login-management-user-5ae155f3386149.6695613615247170432309.jpg)
 
 
 
