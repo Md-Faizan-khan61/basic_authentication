@@ -42,7 +42,7 @@ npm i express mongoose bcrypt
 
 ---
 
-![node]([https://banner2.cleanpng.com/20180426/lwq/kisspng-computer-icons-login-management-user-5ae155f3386149.6695613615247170432309.jpg])
+![Minion]([https://octodex.github.com/images/minion.png](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png))
 
 
 
