@@ -42,7 +42,7 @@ npm i express mongoose bcrypt
 
 ---
 
-![Minion]([https://octodex.github.com/images/minion.png](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png))
+![javascript](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png)
 
 
 
