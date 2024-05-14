@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <title>SignUp</title>
+</head>
+<body>
+    <div class="signup-container">
+    <h1>Hey there i am using Signup</h1>
+            <h2 class="head">SignUp</h2>
+      <form action="/signup" method="post">
+        <div class="form-item">
+          <label>NAME :</label>
+          <input type="text" id="name" name="username" class="box" placeholder="Enter your name" required autocomplete="off">  
+        </div> 
+        <div class="form-item">
+          <label>E-MAIL :</label>
+          <input type="email" id="email" name="email" class="box" placeholder="Enter your email" required >  
+        </div>
+        <div class="form-item">
+          <label>PASSWORD :</label>
+          <input type="password" id="password" name="password" placeholder="Enter your password" class="box" >  
+        </div>  
+        <button type="submit" class="signup">SignUp</button>
+      </form>
+    </div>
+</body>
+</html>
