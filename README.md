@@ -37,8 +37,9 @@ name:{
 
 # usage
 
-<h2>1. install dependencies</h2>
-npm i `express` `mongoose` `bcrypt`
+## 1. install dependencies
+
+npm i `express mongoose bcrypt`
 
 ---
 
