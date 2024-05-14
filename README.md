@@ -17,7 +17,7 @@ The Login/signup application is a Node.js-based system developed using the Expre
  email:string
  password:string 
 </ul>
-<h3>example</h3>
+<!-- <h3>example</h3>
 ![Snapshot]( name:{
        type:String,
        required:true   
@@ -30,7 +30,7 @@ The Login/signup application is a Node.js-based system developed using the Expre
         type:String,
         required:true 
     })
-)
+) -->
 # usage
 <h2>1.install dependencies</h2>
 npm i express mongoose bcrypt
