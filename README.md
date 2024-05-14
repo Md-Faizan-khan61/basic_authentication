@@ -3,11 +3,11 @@ The Login/signup application is a Node.js-based system developed using the Expre
 
 # End-point
 unordered
-  + end-point:post/signup
-  + description:to registered new user credentials
+  + end-point: post/signup
+  - description: to registered new user credentials
 
-  + end-point:post/login
-  + description:to login to home page
+  + end-point: post/login
+  - description: to login to home page
  
 
 # Data model
@@ -38,7 +38,7 @@ name:{
 # usage
 
 <h2>1. install dependencies</h2>
-npm i express mongoose bcrypt
+npm i `express mongoose bcrypt`
 
 ---
 
